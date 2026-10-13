@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.json
+*.backup*
+*.bak
+restart.log
+__pycache__/
+*.pyc
